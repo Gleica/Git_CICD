@@ -1,0 +1,19 @@
+cat > .gitignore << 'EOF'
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets locais (não commitar nunca)
+.env
+*.pem
+EOF
