@@ -7,6 +7,7 @@ problemas. Possíveis problemas plantados:
   - desconto pode ser negativo (sem validação)
   - divisão por zero potencial em discount_per_item
   - cart vazio não é tratado
+  1,2,3 mudança
 """
 
 
