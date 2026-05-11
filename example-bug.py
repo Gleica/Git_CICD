@@ -1,3 +1,5 @@
+# Teste do bot de code review — adiciona método de desconto fixo
+
 """
 Arquivo de exemplo com bugs sutis para demonstração do bot de code review.
 
